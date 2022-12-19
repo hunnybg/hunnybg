@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hunnybg
+- 👋 Hi, I’m Hemraj Behmeni
 - 👀 I’m interested in Mean and Mern Projects.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m learning and growing every day
+- 💞️ I’m looking to collaborate on React, Angular, Node Projects.
 - 📫 How to reach me ...honey20696@gmail.com
 
 <!---
